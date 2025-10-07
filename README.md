@@ -40,7 +40,7 @@ It turned into something I really enjoyed experimenting with — especially mixi
 
 ---
 
-## 🧩 Development Notes
+## Development Notes
 
 This project was originally configured with **Base44** for AI-driven API integrations and image generation.  
 It has since been **refactored to use local API stubs** for improved modularity and **seamless deployment** on Vercel.  
