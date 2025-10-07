@@ -40,8 +40,14 @@ It turned into something I really enjoyed experimenting with — especially mixi
 
 ---
 
+### 🪪 License
+Licensed under the [MIT License](./LICENSE) © 2025 Chloe Hung.
+
+---
+
 ### Developer
 
 **Chloe Hung**  
 Creative Developer & Shopify Specialist  
 [chloehung.dev](#)
+
