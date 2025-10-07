@@ -40,6 +40,16 @@ It turned into something I really enjoyed experimenting with — especially mixi
 
 ---
 
+## 🧩 Development Notes
+
+This project was originally configured with **Base44** for AI-driven API integrations and image generation.  
+It has since been **refactored to use local API stubs** for improved modularity and **seamless deployment** on Vercel.  
+
+This setup keeps the app lightweight and functional without external dependencies,  
+while maintaining flexibility to **reintegrate Base44 or other APIs** in future iterations.
+
+---
+
 ### 🪪 License
 Licensed under the [MIT License](./LICENSE) © 2025 Chloe Hung.
 
